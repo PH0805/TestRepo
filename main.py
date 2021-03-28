@@ -21,4 +21,5 @@ if __name__ == '__main__':
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 print_hi("Mateusz")
 print_hi("Mateusz2")
+print_hi("Mateusz2")
 
