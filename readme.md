@@ -1,1 +1,4 @@
-Plik_readMe
+Plik_readMedDadaDad
+
+# LORE
+LOREEEEE
